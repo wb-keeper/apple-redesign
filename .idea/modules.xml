@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/sanity-build.iml" filepath="$PROJECT_DIR$/.idea/sanity-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/apple-redesign.iml" filepath="$PROJECT_DIR$/.idea/apple-redesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../coffee/.idea/coffee.iml" filepath="$PROJECT_DIR$/../coffee/.idea/coffee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cryptoapp/.idea/cryptoapp.iml" filepath="$PROJECT_DIR$/../cryptoapp/.idea/cryptoapp.iml" />
     </modules>
   </component>
 </project>
