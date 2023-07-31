@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/apple-redesign.iml" filepath="$PROJECT_DIR$/.idea/apple-redesign.iml" />
       <module fileurl="file://$PROJECT_DIR$/../coffee/.idea/coffee.iml" filepath="$PROJECT_DIR$/../coffee/.idea/coffee.iml" />
       <module fileurl="file://$PROJECT_DIR$/../cryptoapp/.idea/cryptoapp.iml" filepath="$PROJECT_DIR$/../cryptoapp/.idea/cryptoapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../antonio-e/ecommerce-admin/.idea/ecommerce-admin.iml" filepath="$PROJECT_DIR$/../antonio-e/ecommerce-admin/.idea/ecommerce-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../greadit/.idea/greadit.iml" filepath="$PROJECT_DIR$/../greadit/.idea/greadit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../netflix-like/.idea/netflix-like.iml" filepath="$PROJECT_DIR$/../netflix-like/.idea/netflix-like.iml" />
     </modules>
   </component>
 </project>

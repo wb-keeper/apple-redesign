@@ -6,6 +6,7 @@ import { Tab } from "@headlessui/react";
 import { GetServerSideProps } from "next";
 import { fetchCategories } from "@/utils/fetchCategories";
 import { fetchProducts } from "@/utils/fetchProducts";
+import Basket from "@/components/Basket";
 
 interface Props {
   categories: Category[];
@@ -13,10 +14,6 @@ interface Props {
 }
 
 export default function Home({ categories, products }) {
-  console.log(
-    products.filter((e) => e.category._ref === categories[0]._id).map((e) => e)
-  );
-
   const showProducts = (category: number) => {
     return products
       .filter((e) => e.category._ref === categories[category]._id)
@@ -32,6 +29,7 @@ export default function Home({ categories, products }) {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header />
+      <Basket />
       <main className="relative h-[200vh] bg-[#e7ecee]">
         <Landing />
       </main>
